@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColinConfiguration", "ColinConfiguration\ColinConfiguration.csproj", "{E078A386-72F3-4783-A2A1-A0A3C4BDEB7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationSample", "ConfigurationSample\ConfigurationSample.csproj", "{DC2AC05A-2E21-4C2F-9D92-EDE7ABE72146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E078A386-72F3-4783-A2A1-A0A3C4BDEB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E078A386-72F3-4783-A2A1-A0A3C4BDEB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E078A386-72F3-4783-A2A1-A0A3C4BDEB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E078A386-72F3-4783-A2A1-A0A3C4BDEB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2AC05A-2E21-4C2F-9D92-EDE7ABE72146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2AC05A-2E21-4C2F-9D92-EDE7ABE72146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2AC05A-2E21-4C2F-9D92-EDE7ABE72146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2AC05A-2E21-4C2F-9D92-EDE7ABE72146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
